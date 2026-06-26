@@ -45,7 +45,7 @@ A fine-tuned **RoBERTa** model for binary classification of news articles as **F
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/edhaevv/fake-news-detection.git
 cd fake-news-detection
 ```
 
