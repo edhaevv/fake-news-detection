@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+evaluate
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
